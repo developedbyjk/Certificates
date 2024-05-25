@@ -1,5 +1,6 @@
 # Certificates
 
+
 # Frontend Developer Career Path
 ![1700370280093](https://github.com/developedbyjk/Certificates/assets/71823598/863b05bd-6981-423f-be25-ed0683e550d0)
 
