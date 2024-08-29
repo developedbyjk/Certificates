@@ -1,9 +1,13 @@
 # Certificates
 
+# 🍃Tailwind CSS
+![image](https://github.com/user-attachments/assets/4eb462c8-df5a-46f1-8f4a-9725308d73ab)
+
+
 # ⚛️React Challenges
 ![GV_HFI0bgAABlGl](https://github.com/user-attachments/assets/a2ce3b14-f8df-40b8-8958-1ccca567da01)
 
-# Frontend Developer Career Path
+# 🧑‍💻Frontend Developer Career Path
 ![1700370280093](https://github.com/developedbyjk/Certificates/assets/71823598/863b05bd-6981-423f-be25-ed0683e550d0)
 
 
