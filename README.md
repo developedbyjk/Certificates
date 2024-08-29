@@ -1,9 +1,12 @@
 # Certificates
 
+# ⚛️React Challenges
+![GV_HFI0bgAABlGl](https://github.com/user-attachments/assets/a2ce3b14-f8df-40b8-8958-1ccca567da01)
+
 # Frontend Developer Career Path
 ![1700370280093](https://github.com/developedbyjk/Certificates/assets/71823598/863b05bd-6981-423f-be25-ed0683e550d0)
 
-![1711271964864](https://github.com/developedbyjk/Certificates/assets/71823598/9b511b01-1685-41ff-a651-5d68871bd36b)
+
 
 
 ## 📚 CSS
